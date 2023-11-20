@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sushan-2003
 - 👀 I’m interested in Software Development
 - 🌱 Languages known - C,C++,JAVA,PYTHON,DSA,MY SQL,HTML,CSS. 
-- 🌱 I’m currently learning AI and dmdw.
+- 🌱 I’m currently learning AI , ML , Data analytics and Data Mining and Data Warehousing.
 - 📫 How to reach me - by mail- sushannayak2003@gmail.com
 
 <!---
